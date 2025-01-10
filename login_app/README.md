@@ -64,6 +64,4 @@ You can use the following credentials for login:
 
 ### Demo
 
-1. **Thumbnail Image**: ![Demo Video Thumbnail](demo_video_thumbnail.png)
-
-2. **Download Link**: [Download Video](demo_video.mp4)
+**Download Link**: [Download Video](demo_video.mp4)
