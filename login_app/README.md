@@ -23,24 +23,28 @@ A Flutter application that allows users to log in and view their profile, using 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repository/login_app.git ```
+      git clone https://github.com/your-repository/login_app.git
+   ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd login_app```
+       cd login_app
+    ```
 
 3. Install dependencies:
 
     ```bash
-    flutter pub get```
+       flutter pub get
+    ```
    
 ### Run the App
 
 You need to run the app on an emulator device to reach the backend in locahost on the host of your machine:
 
     ```bash
-flutter run```
+      flutter run
+    ```
 
 #### User Credentials
 
