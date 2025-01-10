@@ -42,9 +42,9 @@ A Flutter application that allows users to log in and view their profile, using 
 
 You need to run the app on an emulator device to reach the backend in locahost on the host of your machine:
 
-    ```bash
+   ```bash
       flutter run
-    ```
+   ```
 
 #### User Credentials
 
